@@ -1,0 +1,25 @@
+{
+  "portfolio": [
+    { "symbol": "RELIANCE", "name": "Reliance Industries", "sector": "Energy & retail", "cap": "Large" },
+    { "symbol": "HDFCBANK", "name": "HDFC Bank", "sector": "Bank", "cap": "Large", "lender": true },
+    { "symbol": "BAJFINANCE", "name": "Bajaj Finance", "sector": "NBFC", "cap": "Large", "lender": true },
+    { "symbol": "TCS", "name": "Tata Consultancy Services", "sector": "IT services", "cap": "Large" },
+    { "symbol": "PERSISTENT", "name": "Persistent Systems", "sector": "IT services", "cap": "Mid" },
+    { "symbol": "BHARTIARTL", "name": "Bharti Airtel", "sector": "Telecom", "cap": "Large" },
+    { "symbol": "LT", "name": "Larsen & Toubro", "sector": "Engineering", "cap": "Large" },
+    { "symbol": "HAL", "name": "Hindustan Aeronautics", "sector": "Defence", "cap": "Large" },
+    { "symbol": "TATAPOWER", "name": "Tata Power", "sector": "Power", "cap": "Large" },
+    { "symbol": "SUZLON", "name": "Suzlon Energy", "sector": "Wind energy", "cap": "Mid" },
+    { "symbol": "IEX", "name": "Indian Energy Exchange", "sector": "Power exchange", "cap": "Small" },
+    { "symbol": "SUNPHARMA", "name": "Sun Pharmaceutical", "sector": "Pharma", "cap": "Large" },
+    { "symbol": "LAURUSLABS", "name": "Laurus Labs", "sector": "Pharma", "cap": "Mid" },
+    { "symbol": "MARUTI", "name": "Maruti Suzuki", "sector": "Autos", "cap": "Large" },
+    { "symbol": "TITAN", "name": "Titan Company", "sector": "Consumer", "cap": "Large" },
+    { "symbol": "TRENT", "name": "Trent", "sector": "Retail", "cap": "Large" },
+    { "symbol": "ETERNAL", "name": "Eternal (Zomato)", "sector": "Internet", "cap": "Large" },
+    { "symbol": "DIXON", "name": "Dixon Technologies", "sector": "Electronics mfg", "cap": "Mid" },
+    { "symbol": "DEEPAKNTR", "name": "Deepak Nitrite", "sector": "Chemicals", "cap": "Mid" },
+    { "symbol": "PRAJIND", "name": "Praj Industries", "sector": "Bio-energy", "cap": "Small" }
+  ],
+  "research": ["POLYCAB", "KPITTECH", "ASIANPAINT", "INDIGO"]
+}

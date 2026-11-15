@@ -1,0 +1,163 @@
+{
+ "Table": [
+  {
+   "NEWSID": "id-0",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
+   "DT_TM": "2026-11-06T22:02:15.363",
+   "NEWS_DT": "2026-11-06T22:02:15.363",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-0.pdf",
+   "HEADLINE": "Intimation of Institutional Analyst(s)/Investor(s) meet",
+   "CATEGORYNAME": "Company Update",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "General"
+  },
+  {
+   "NEWSID": "id-1",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Announcement Under Regulation 30 (LODR)-Allotment Of ESOP / ESPS",
+   "DT_TM": "2026-11-03T15:55:35.443",
+   "NEWS_DT": "2026-11-03T15:55:35.443",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-1.pdf",
+   "HEADLINE": "Disclosure of allotment of Equity shares pursuant to Employee Stock Options Scheme, 2018 of Polycab India Limited",
+   "CATEGORYNAME": "Company Update",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "General"
+  },
+  {
+   "NEWSID": "id-2",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)",
+   "DT_TM": "2026-10-30T12:17:22.42",
+   "NEWS_DT": "2026-10-30T12:17:22.42",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-2.pdf",
+   "HEADLINE": "Order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026",
+   "CATEGORYNAME": "Company Update",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "Updates - Corporate Insolvency Resolution Process  (CIRP)"
+  },
+  {
+   "NEWSID": "id-3",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
+   "DT_TM": "2026-10-28T17:41:24.207",
+   "NEWS_DT": "2026-10-28T17:41:24.207",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-3.pdf",
+   "HEADLINE": "",
+   "CATEGORYNAME": "Company Update",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "General"
+  },
+  {
+   "NEWSID": "id-4",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Announcement Under Regulation 30 (LODR) - Earnings Call Transcript",
+   "DT_TM": "2026-10-19T16:38:15.2",
+   "NEWS_DT": "2026-10-19T16:38:15.2",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-4.pdf",
+   "HEADLINE": "",
+   "CATEGORYNAME": "Company Update",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "General"
+  },
+  {
+   "NEWSID": "id-5",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Audio Recording Of Earnings Conference Call Q2 FY 26-27",
+   "DT_TM": "2026-10-15T20:48:30.61",
+   "NEWS_DT": "2026-10-15T20:48:30.61",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-5.pdf",
+   "HEADLINE": "",
+   "CATEGORYNAME": "Company Update",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "General"
+  },
+  {
+   "NEWSID": "id-6",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Unaudited Interim Condensed (Standalone And Consolidated) Financial Statements For The Quarter And Half Year Ended 30Th September 2026",
+   "DT_TM": "2026-10-15T15:32:17.35",
+   "NEWS_DT": "2026-10-15T15:32:17.35",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-6.pdf",
+   "HEADLINE": "",
+   "CATEGORYNAME": "Company Update",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "General"
+  },
+  {
+   "NEWSID": "id-7",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Earnings Presentation",
+   "DT_TM": "2026-10-15T13:58:12.843",
+   "NEWS_DT": "2026-10-15T13:58:12.843",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-7.pdf",
+   "HEADLINE": "",
+   "CATEGORYNAME": "Company Update",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "General"
+  },
+  {
+   "NEWSID": "id-8",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+   "DT_TM": "2026-10-15T13:13:36.973",
+   "NEWS_DT": "2026-10-15T13:13:36.973",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-8.pdf",
+   "HEADLINE": "",
+   "CATEGORYNAME": "Company Update",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "Press Release / Media Release"
+  },
+  {
+   "NEWSID": "id-9",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Unaudited Financial Results For The Quarter And Half Year Ended 30Th September 2026",
+   "DT_TM": "2026-10-15T13:05:55.34",
+   "NEWS_DT": "2026-10-15T13:05:55.34",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-9.pdf",
+   "HEADLINE": "",
+   "CATEGORYNAME": "Result",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "Financial Results"
+  },
+  {
+   "NEWSID": "id-10",
+   "SCRIP_CD": 542652,
+   "NEWSSUB": "Board Meeting Outcome for Outcome Of Board Meeting",
+   "DT_TM": "2026-10-15T12:58:41.5",
+   "NEWS_DT": "2026-10-15T12:58:41.5",
+   "CRITICALNEWS": "0",
+   "ATTACHMENTNAME": "att-10.pdf",
+   "HEADLINE": "",
+   "CATEGORYNAME": "Board Meeting",
+   "SLONGNAME": "Polycab India Ltd",
+   "Fld_Attachsize": 260600,
+   "SUBCATNAME": "Outcome of Board Meeting"
+  }
+ ],
+ "Table1": [
+  {
+   "ROWCNT": 11
+  }
+ ]
+}
